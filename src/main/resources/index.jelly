@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Adds the "View as plain text" link back to the sidepanel of builds (removed in Jenkins 2.460+)
+</div>
